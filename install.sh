@@ -1,11 +1,3 @@
-#This Script is made by PARADOX-UNIVERSE("Ambari Mandal")
-
-yellow = '\033[93m'
-cyan = '\033[96m'
-lgreen = '\033[92m'
-print (lgreen+bold+"     <===[[ coded by P4R4D0X ]]===> \n"+clear)
-print (yellow+bold+"   <---(( search on youtube PARADOX-UNIVERSE ))--> \n"+clear)
-
 
 pkg install root-repo
 Pkg install unstable-repo -y
